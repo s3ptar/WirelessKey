@@ -9,3 +9,9 @@ Serversystem für USB Anschluss
   - jupyter notebook
   - mosquitto
 - WLAN DHCP Server 
+
+# A Server installation
+Ubuntu24.04
+  - remove hostapd + dnsmasq
+  - install network-manager + wireless-tools
+  - add wifi interface in nmtui and create an Hotspot

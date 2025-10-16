@@ -14,4 +14,8 @@ Serversystem für USB Anschluss
 Ubuntu24.04
   - remove hostapd + dnsmasq
   - install network-manager + wireless-tools
+  - install docker
+    - add mosquitto
+    - add node red
+    - add nginx
   - add wifi interface in nmtui and create an Hotspot
